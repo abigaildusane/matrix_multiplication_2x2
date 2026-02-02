@@ -19,7 +19,7 @@ Enter matrix B:
 Row 1: 4 4
 Row 2: 4 4
 
-Result:
+**Result** :
 
 |28, 28|
 
@@ -27,7 +27,7 @@ Result:
 
 ## Formula
 If
-**A ** = 
+**A** = 
 
 | a b |
 
