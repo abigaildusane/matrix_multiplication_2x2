@@ -27,7 +27,7 @@ Result:
 
 ## Formula
 If
-**A **= 
+**A ** = 
 
 | a b |
 
