@@ -23,7 +23,7 @@ Result:
 |28, 28|
 |32, 32|
 
-#Formula
+## Formula
 If
 A = | a b |
     | c d |
