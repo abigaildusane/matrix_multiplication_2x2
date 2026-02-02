@@ -27,14 +27,14 @@ Result:
 
 ## Formula
 If
-A = 
+**A **= 
 
 | a b |
 
 | c d |
 
 
-B = 
+**B** = 
 
 | e f |
 
@@ -42,7 +42,7 @@ B =
 
 
 Then
-A × B = 
+**A × B** = 
 
 | ae + bg af + bh |
 
