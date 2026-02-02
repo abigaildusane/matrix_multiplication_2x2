@@ -26,6 +26,7 @@ Result:
 ## Formula
 If
 A = 
+
 | a b |
 | c d |
 
