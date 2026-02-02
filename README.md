@@ -20,7 +20,9 @@ Row 1: 4 4
 Row 2: 4 4
 
 Result:
+
 |28, 28|
+
 |32, 32|
 
 ## Formula
@@ -37,6 +39,7 @@ B =
 | e f |
 
 | g h |
+
 
 Then
 A × B = 
