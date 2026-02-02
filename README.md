@@ -25,10 +25,14 @@ Result:
 
 ## Formula
 If
-A = | a b |
-    | c d |
-B = | e f |
-    | g h |
+A = 
+| a b |
+| c d |
+
+B = 
+| e f |
+| g h |
+
 Then
 A × B = 
 | ae + bg af + bh |
