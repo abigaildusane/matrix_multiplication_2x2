@@ -1,0 +1,27 @@
+def input_matrix(name):
+    print(f"Enter matrix {name} (2 rows, 2 numbers per row):")
+
+    row1 = list(map(int, input("Row 1: ").split()))
+    row2 = list(map(int, input("Row 2: ").split()))
+
+    if len(row1) != 2 or len(row2) != 2:
+        raise ValueError("Each row must have exactly 2 numbers")
+
+    return [row1, row2]
+
+
+A = input_matrix("A")
+B = input_matrix("B")
+
+C = [
+    [
+        A[0][0]*B[0][0] + A[0][1]*B[1][0],
+        A[0][0]*B[0][1] + A[0][1]*B[1][1]
+    ],
+    [
+        A[1][0]*B[0][0] + A[1][1]*B[1][0],
+        A[1][0]*B[0][1] + A[1][1]*B[1][1]
+    ]
+]
+
+print("Result:", C)
