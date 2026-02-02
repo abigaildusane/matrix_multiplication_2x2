@@ -31,13 +31,18 @@ A =
 
 | c d |
 
+
 B = 
+
 | e f |
+
 | g h |
 
 Then
 A × B = 
+
 | ae + bg af + bh |
+
 | ce + dg cf + dh |
 
 ## Requirements
